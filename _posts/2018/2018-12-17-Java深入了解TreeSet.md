@@ -128,3 +128,10 @@ class CompareByLen /*extends Object*/ implements Comparator<String> {
    - c.两种方式的区别
      - TreeSet构造函数什么都不传, 默认按照类中Comparable的顺序(没有就报错ClassCastException)
      - TreeSet如果传入Comparator, 就优先按照Comparator
+
+
+
+
+欢迎关注我的微信公众号，接收最新动态。
+
+<div align="center"><img width="192px" height="192px" src="https://i.postimg.cc/pdykktnS/weichat.jpg"/></div>

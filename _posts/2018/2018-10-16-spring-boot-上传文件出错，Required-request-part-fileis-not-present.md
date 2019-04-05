@@ -105,3 +105,8 @@ defaultValue：默认值，表示如果请求中没有同名参数时的默认�
 
 
 之前我在上传文件的时候指定的key与@RequestParam中要求的不一致，导致了后台不能获取到上传的文件。
+
+
+欢迎关注我的微信公众号，接收最新动态。
+
+<div align="center"><img width="192px" height="192px" src="https://i.postimg.cc/pdykktnS/weichat.jpg"/></div>

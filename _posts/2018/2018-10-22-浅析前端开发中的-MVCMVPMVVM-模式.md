@@ -431,3 +431,8 @@ MVC的目的是把应用程序的数据、业务逻辑和界面这三块解耦�
 
 
 原文: http://liaokeyu.com/%E6%8A%80%E6%9C%AF/2017/06/01/js-architectural-patterns-overview.html
+
+
+欢迎关注我的微信公众号，接收最新动态。
+
+<div align="center"><img width="192px" height="192px" src="https://i.postimg.cc/pdykktnS/weichat.jpg"/></div>
