@@ -96,14 +96,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: CxcPDF
-    repo: CxcPDF.github.io
+    repo: blog-comments
     oauth:
         client_id: 87b59260dbbe5c979141
         client_secret: 930e313b4d4f623685d6cc68eb5923f80972e643
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: CxcPDF
-    repo: CxcPDF.github.io
+    repo: blog-comments
     clientID: 87b59260dbbe5c979141
     clientSecret: 930e313b4d4f623685d6cc68eb5923f80972e643
 # 在使用其它评论组件时可点击显示 Disqus
