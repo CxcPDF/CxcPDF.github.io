@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 'Spring Boot上传文件出错，Required request part fileis not present'
-tags: [Spring Boot]
-
-
-
-
+title: Spring Boot上传文件出错，Required request part fileis not present
+categories: [Spring Boot]
+description: Spring Boot上传文件出错，Required request part fileis not present
+keywords: Spring Boot, 文件上传
 
 
 ---
@@ -79,8 +77,6 @@ public class FileController {
     }
 }
 ```
-
-<!--more-->
 
 今天使用postman来测试文件上传的时候，总是报“Required request part 'file' is not present”的错误，查阅了很多资料也还是无法解决这个问题。突然想到```@RequestParam("file")MultipartFile file```中RequestParam需要的参数是“file”，那我在postman中指定文件的key为“file”，来测试一下，发现竟然成功了！！到这里我就想去查一下注解RequestParam的作用。
 

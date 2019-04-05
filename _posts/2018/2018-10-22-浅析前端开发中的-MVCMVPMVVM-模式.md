@@ -1,13 +1,12 @@
 ---
 layout: post
-title: '浅析前端开发中的MVC/MVP/MVVM模式'
-tags: [前端]
-
+title: 浅析前端开发中的MVC/MVP/MVVM模式
+categories: [前端]
+description: 浅析前端开发中的MVC/MVP/MVVM模式
+keywords: 前端, 开发模式
 ---
 
 MVC，MVP和MVVM都是常见的软件架构设计模式（Architectural Pattern），它通过分离关注点来改进代码的组织方式。不同于设计模式（Design Pattern），只是为了解决一类问题而总结出的抽象方法，一种架构模式往往使用了多种设计模式。
-
-<!--more-->
 
 要了解MVC、MVP和MVVM，就要知道它们的相同点和不同点。不同部分是C(Controller)、P(Presenter)、VM(View-Model)，而相同的部分则是MV(Model-View)。
 

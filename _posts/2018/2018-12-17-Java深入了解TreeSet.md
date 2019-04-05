@@ -1,19 +1,15 @@
 ---
 layout: post
-title: 'Java深入了解TreeSet'
-tags: [Java]
-
-
-
-
-
+title: Java深入了解TreeSet
+categories: [Java]
+description: Java深入了解TreeSet
+keywords: Java,TreeSet
 
 ---
 
 Java中的TreeSet是Set的一个子类，TreeSet集合是用来对象元素进行排序的,同样他也可以保证元素的唯一。
 那TreeSet为什么能保证元素唯一，它是怎样排序的呢？先看一段代码：
 
-<!--more-->
 
 ```java
 public static void demo() {

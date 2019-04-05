@@ -633,6 +633,6 @@ https://github.com
 
 ---
 
-欢迎关注我的微信公众号，接收 markdown-intro 最新动态。
+欢迎关注我的微信公众号，接收最新动态。
 
-<div align="center"><img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/></div>
+<div align="center"><img width="192px" height="192px" src="https://i.postimg.cc/pdykktnS/weichat.jpg"/></div>
